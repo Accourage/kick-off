@@ -1,8 +1,7 @@
-# Accourage
+![logo](https://github.com/Accourage/kick-off/raw/master/logo_b.png)
 
-insert image here
 
-Team Members
+## Team Members
 - Declan Johnson (Team and Technology Lead)
 - David Airola (Data Analyst)
 - Tyler Davis (CIO)
